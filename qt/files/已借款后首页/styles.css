@@ -3955,3 +3955,29 @@
   width:140px;
   word-wrap:break-word;
 }
+#u300 {
+  position:absolute;
+  left:35px;
+  top:350px;
+  width:49px;
+  height:18px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#999999;
+}
+#u300_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:49px;
+  height:18px;
+}
+#u301 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:49px;
+  white-space:nowrap;
+}
