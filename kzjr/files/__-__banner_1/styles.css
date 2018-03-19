@@ -34,3 +34,32 @@
   visibility:hidden;
   word-wrap:break-word;
 }
+#u2 {
+  position:absolute;
+  left:1518px;
+  top:301px;
+  width:-475px;
+  height:69px;
+}
+#u2_seg0 {
+  position:absolute;
+  left:-485px;
+  top:-10px;
+  width:489px;
+  height:20px;
+}
+#u2_seg1 {
+  position:absolute;
+  left:-485px;
+  top:-10px;
+  width:20px;
+  height:83px;
+}
+#u3 {
+  position:absolute;
+  left:-322px;
+  top:-8px;
+  width:100px;
+  visibility:hidden;
+  word-wrap:break-word;
+}

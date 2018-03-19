@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1703px;
+  width:1697px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -14,8 +14,8 @@
 }
 #u0 {
   position:absolute;
-  left:15px;
-  top:10px;
+  left:9px;
+  top:6px;
   width:1688px;
   height:800px;
 }
@@ -32,5 +32,30 @@
   top:392px;
   width:1684px;
   visibility:hidden;
+  word-wrap:break-word;
+}
+#u2 {
+  position:absolute;
+  left:266px;
+  top:72px;
+  width:109px;
+  height:18px;
+  font-family:'PingFangSC-Regular', 'PingFang SC';
+  font-weight:400;
+  font-style:normal;
+  color:#0000FF;
+}
+#u2_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
+  height:18px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:109px;
   word-wrap:break-word;
 }
