@@ -1763,3 +1763,27 @@
   width:109px;
   word-wrap:break-word;
 }
+#u136 {
+  position:absolute;
+  left:903px;
+  top:780px;
+  width:97px;
+  height:33px;
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+#u136_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  height:33px;
+}
+#u137 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:97px;
+  white-space:nowrap;
+}
